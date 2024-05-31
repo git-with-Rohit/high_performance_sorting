@@ -5,13 +5,13 @@
 [![GitHub issues](https://img.shields.io/github/issues/git-with-Rohit/high_performance_sorting.svg)](https://github.com/git-with-Rohit/high_performance_sorting/issues)
 [![GitHub stars](https://img.shields.io/github/stars/git-with-Rohit/high_performance_sorting.svg)](https://github.com/git-with-Rohit/high_performance_sorting/stargazers)
 
-High Performance Sorting is a C++ library providing efficient implementations of various sorting algorithms optimized for speed and scalability. This project aims to deliver high-performance sorting solutions for large datasets, leveraging parallel processing techniques and advanced algorithms.
+High Performance Sorting is a C++ library providing efficient implementations of various sorting algorithms optimised for speed and scalability. This project aims to deliver high-performance sorting solutions for large datasets, leveraging parallel processing techniques and advanced algorithms.
 
 ## Features
 
 - **TimSort**: A highly efficient sorting algorithm based on merge sort and insertion sort, optimised for real-world data.
 - **Radix Sort**: A non-comparative integer sorting algorithm that sorts data with integer keys by grouping digits.
-- **Parallel Merge Sort**: A parallelized version of merge sort designed to take advantage of multiple processor cores for faster sorting.
+- **Parallel Merge Sort**: A parallelised version of merge sort designed to take advantage of multiple processor cores for faster sorting.
 
 ## Why High Performance Sorting?
 
